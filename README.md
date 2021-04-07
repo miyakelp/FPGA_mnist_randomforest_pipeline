@@ -10,4 +10,4 @@ scikit-learnでトレーニングしたモデルを以下のコードで変換�
 https://gist.github.com/miyakelp/37ef7858845d7d3354c44350ab420650
 
 
-解説記事：そのうち
+解説記事：https://recruit.gmo.jp/engineer/jisedai/blog/fpga-ml-pipeline/
